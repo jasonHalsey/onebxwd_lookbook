@@ -10,6 +10,16 @@
 
                         <img
                             alt=""
+                            src="images/lookbook_2016/05-sm.jpg"
+                            sizes="(min-width: 1000px) 930px, 90vw"
+                            data-srcset="images/lookbook_2016/05-sm.jpg 500w,
+                                images/lookbook_2016/05.jpg 1024w"
+                            class="lazyload" />
+                    </li>
+                    <li>
+
+                        <img
+                            alt=""
                             src="images/lookbook_2016/01-sm.jpg"
                             sizes="(min-width: 1000px) 930px, 90vw"
                             data-srcset="images/lookbook_2016/01-sm.jpg 500w,
@@ -57,16 +67,6 @@
                                 images/lookbook_2016/04.jpg 1024w"
                             class="lazyload" />
                         <div class="byebye_overlay"> This is the overlay</div>
-                    </li>
-                    <li>
-
-                        <img
-                            alt=""
-                            src="images/lookbook_2016/05-sm.jpg"
-                            sizes="(min-width: 1000px) 930px, 90vw"
-                            data-srcset="images/lookbook_2016/05-sm.jpg 500w,
-                                images/lookbook_2016/05.jpg 1024w"
-                            class="lazyload" />
                     </li>
                     <li>
 

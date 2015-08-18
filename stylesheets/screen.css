@@ -363,7 +363,7 @@ picture {
   font-size: 1.45em;
   font-weight: 500;
   text-transform: lowercase;
-  font-family: jaf-facitweb;
+  font-family: proxima-nova-alt;
   padding: 1em;
   text-decoration: none;
 }
@@ -613,7 +613,7 @@ div.byebye_overlay {
   width: 50%;
   top: 50%;
   right: 50%;
-  font-family: jaf-facitweb;
+  font-family: proxima-nova-alt;
   font-size: 2.25em;
 }
 
@@ -645,7 +645,7 @@ body.contact section.block_container .contact-block {
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 31.76157%;
+  width: 48.82117%;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.7);
   height: 18.0em;
@@ -657,7 +657,7 @@ body.contact section.block_container .contact-block:last-child {
 }
 /* line 18, ../sass/partials/_contact.scss */
 body.contact section.block_container .contact-block h2 {
-  font-family: jaf-facitweb;
+  font-family: proxima-nova-alt;
   font-size: 2.0em;
   text-transform: capitalize;
   border: 4px solid #000;
@@ -665,13 +665,13 @@ body.contact section.block_container .contact-block h2 {
 }
 /* line 25, ../sass/partials/_contact.scss */
 body.contact section.block_container .contact-block h3 {
-  font-family: atrament-web;
+  font-family: proxima-nova-alt;
   font-size: 1.5em;
   margin: 0;
 }
 /* line 30, ../sass/partials/_contact.scss */
 body.contact section.block_container .contact-block p {
-  font-family: atrament-web;
+  font-family: proxima-nova-alt;
   font-size: 1.5em;
   margin: 0;
 }
@@ -771,7 +771,7 @@ body.download section.block_container .download-block {
   text-align: center;
   background-color: rgba(255, 255, 255, 0.7);
   padding: 2%;
-  font-family: atrament-web;
+  font-family: proxima-nova-alt;
   font-size: 1.5em;
 }
 /* line 89, ../sass/neat/grid/_span-columns.scss */
@@ -780,7 +780,7 @@ body.download section.block_container .download-block:last-child {
 }
 /* line 20, ../sass/partials/_downloadpage.scss */
 body.download section.block_container .download-block h2 {
-  font-family: jaf-facitweb;
+  font-family: proxima-nova-alt;
   font-size: 2.0em;
   text-transform: capitalize;
   border: 4px solid #000;
@@ -789,7 +789,7 @@ body.download section.block_container .download-block h2 {
 /* line 27, ../sass/partials/_downloadpage.scss */
 body.download section.block_container .download-block input[type="submit"] {
   background-color: #333;
-  font-family: atrament-web;
+  font-family: proxima-nova-alt;
   font-size: 1.0em;
 }
 /* line 32, ../sass/partials/_downloadpage.scss */

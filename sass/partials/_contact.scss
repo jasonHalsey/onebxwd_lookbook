@@ -10,7 +10,7 @@ body.contact{
         @include outer-container;
         padding-top: 20%;
         .contact-block{
-            @include span-columns(4);
+            @include span-columns(6);
             text-align: center;
             background-color: rgba(255, 255, 255, 0.7);
             height:18.0em;

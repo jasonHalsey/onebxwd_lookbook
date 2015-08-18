@@ -10,9 +10,14 @@
         <meta name="description" content="ONE BXWD’s main purpose is to bring an innovative and comfortable wardrobe to the boundless cross generational male. Using a refined approach by combining performance fabrics with a polished sportswear mind set.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="stylesheets/screen.css">
+        
+        <script src="//use.typekit.net/vvq3khi.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+        
 
         <script src="js/instafeed.min.js"></script>
         <script async src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
 
          
     </head>
