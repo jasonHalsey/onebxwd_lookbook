@@ -740,7 +740,7 @@ body.contact section.block_container .contact-block a:hover {
 
 /* line 1, ../sass/partials/_downloadpage.scss */
 body.download {
-  background: url(../images/contact_bg.jpg) no-repeat center center fixed;
+  background: url(../images/wholesale_bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -834,4 +834,21 @@ body.download section.block_container .download-block a.button {
   body.download section.block_container {
     padding-top: 30%;
   }
+}
+
+/* line 2, ../sass/partials/_holding_page.scss */
+body.holding div.main_logo_holding {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 10.0em;
+}
+/* line 10, ../sass/partials/_holding_page.scss */
+body.holding div.holding_number {
+  color: #5E5E5E;
+  text-align: center;
+  font-size: 2.0em;
+  line-height: 4.0em;
 }
